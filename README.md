@@ -13,6 +13,8 @@ Backend/
 │  └─ server.js
 ├─ first-server/      
 │  └─ firstServer.js
+├─ mini-project/      
+│  └─ server.js
 ├─ package.json         
 ├─ package-lock.json
 └─ .gitignore           
