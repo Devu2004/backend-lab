@@ -5,5 +5,5 @@ const connectToDB = require('./src/db/db')
 connectToDB()
 
 server.listen(process.env.PORT,()=>{
-    console.log('done man')
+    console.log('running...')
 })
